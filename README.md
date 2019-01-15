@@ -6,7 +6,7 @@
 + https://raw.githubusercontent.com/sellbe/test-task/master/data/3.json
 + https://raw.githubusercontent.com/sellbe/test-task/master/data/4.json
 
-При нажатии на каждую из табов асинхронно загружается содержимое по соответствующему URL.
+При нажатии на каждую из табов асинхронно загружается содержимое по соответствующему URL и отображается **title** и **content**. В содержимом **content** необходимо подсветить слово, которое встречается чаще всего.
 
 ## Внешний вид табов
 ![Image of Tabs](tabs.png)
